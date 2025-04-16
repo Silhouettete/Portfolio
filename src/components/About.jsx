@@ -25,7 +25,7 @@ export class About extends Component {
               <img
                 className="object-cover h-48 object-center rounded"
                 alt="profile"
-                src="./profile.svg"
+                src="./assets/profile.svg"
               />
             </div>
           </div>

@@ -4,28 +4,28 @@ export const projects = [
     subtitle: "AI integrated FAQ project",
     description: "An AI integrated FAQ project for university pick-up service",
     link: "https://github.com/Silhouettete/Pick-up-FAQ",
-    image: "./ChatBot.jpg",
+    image: "./assets/ChatBot.jpg",
   },
   {
     title: "Discord bot",
     subtitle: "Discord bot project",
     description: "A small project for discord",
     link: "https://github.com/Silhouettete/Pick-up-FAQ",
-    image: "./discord.svg",
+    image: "./assets/discord.svg",
   },
   {
     title: "Calculator",
     subtitle: "Calculator project",
     description: "A small basic calculator project for learning purposes",
     link: "https://github.com/Silhouettete/Pick-up-FAQ",
-    image: "./calculator.svg",
+    image: "./assets/calculator.svg",
   },
   {
     title: "Etch-a-Sketch",
     subtitle: "a fun little etch-a-sketch",
     description: "A small personal project for learning JavaScript",
     link: "https://github.com/Silhouettete/Pick-up-FAQ",
-    image: "./etch-a-sketch.png",
+    image: "./assets/etch-a-sketch.png",
   },
   {
     title: "Hotel Self Check-in",
@@ -33,7 +33,7 @@ export const projects = [
     description:
       "A hackathon mobile app project for CimSO by using Flutter and REST API",
     link: "https://github.com/Silhouettete/Pick-up-FAQ",
-    image: "./hotel.svg",
+    image: "./assets/hotel.svg",
   },
 ];
 
